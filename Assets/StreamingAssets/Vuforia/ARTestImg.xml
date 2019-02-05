@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Random-funny-pics-214-257-Dog-derp-face" size="5.000000 6.047619" />
+    <ImageTarget name="funny-random-funny-10759789-1024-768" size="5.000000 3.750000" />
+  </Tracking>
+</QCARConfig>
