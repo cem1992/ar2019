@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="EarthAR" size="19.500000 19.549450" />
+    <ImageTarget name="AirstripAR" size="10.500000 28.941401" />
+    <ImageTarget name="MileniumFalconAR" size="7.500000 10.103037" />
+    <ImageTarget name="TieFighterAR" size="3.500000 3.481250" />
+    <ImageTarget name="T4AFighterAR" size="3.500000 4.698044" />
+    <ImageTarget name="SpaceshuttleAR" size="6.500000 9.845484" />
+  </Tracking>
+</QCARConfig>
