@@ -17,7 +17,7 @@ MonoBehaviour:
     ufoLicenseKey: QVRhclowMy8vLy8vQUFBQUtDQjYzektoY2tDcHVhbmVZL1JUanZORXNvZHdsd28zUkxzU0RIa2VaeUo5WmF6d1l3NFZIZTE3UUVWQlFUM3FRRENzdXVGVlNCajRlNVJndzhSSnBCd2NnSzJPdTNpaWt2QWkrSGdBNDlielZMcFY1L2ZtR3J6SExFNUQyOSsycnNCd2FLOFVKYWN3UkcrdmxENXBLTm4yZTltcTBQdG9NWkhnMFNDaHRJYnNOY3gxL2g3dWR6dDZXSFkrbk5NVXUvUFFTQUkvUHNqbWZEQjNkbitPczJHa2xqWHdIN0FmaUZsc3hzVkFTZXVjTnhMeksyTHZSWmxUbXJUSlNaeU5DRTVFbU1PSDFqKzB4ZVZ6aVcrQ2Q1cjJRMk1wZlg5VEpvTnZFeW8yeU91YzYvYUh6dm9zaFBTa1h0S2JPckc3T09TNzdzTkxQSitSVGdrNnlGbkdMUC9rc2F2RWkxL2YrdStKUVpHbld0MzQ=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 2
+    maxSimultaneousImageTargets: 4
     maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
@@ -64,7 +64,7 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
   webcam:
-    deviceNameSetInEditor: USB Camera
+    deviceNameSetInEditor: 'USB Camera #2'
     flipHorizontally: 0
     turnOffWebCam: 0
     renderTextureLayer: 30
