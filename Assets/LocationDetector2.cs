@@ -21,10 +21,10 @@ public class LocationDetector2 : MonoBehaviour
 	{
 		Matrix4x4 mat = Matrix4x4.TRS(transform.position, transform.rotation, transform.lossyScale);
 		mat = mat * T(Earth.transform.position.x, Earth.transform.position.y, Earth.transform.position.z);
-		Vector3 p = mat.GetColumn(3);
+		Vector3 p = mat.GetColumn(4);
 
    		GUI.color = Color.red;
-   		GUI.Label(new Rect(10, 10, 500, 100), "Local position: " + p.x + " " + p.y + " " +p.z);
+   		GUI.Label(new Rect(10, 10, 500, 100), "Local position: " + mat);
 	}	
 
 	public static Matrix4x4 T (float x, float y, float z)
