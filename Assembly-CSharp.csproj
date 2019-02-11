@@ -53,8 +53,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\collision.cs" />
-     <Compile Include="Assets\Rotate.cs" />
+     <Compile Include="Assets\AdvancedOrbiting.cs" />
+     <Compile Include="Assets\LocationDetector2.cs" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
