@@ -54,6 +54,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\AdvancedOrbiting.cs" />
+     <Compile Include="Assets\dotProducts.cs" />
+     <Compile Include="Assets\LaserScript.cs" />
      <Compile Include="Assets\LocationDetector2.cs" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
      <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
