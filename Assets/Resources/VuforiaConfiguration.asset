@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AW+A8UH/////AAABmXl/AkwvREafv0aaCCRy4mZa/dzAgWlc3R1zZ6OYPefZU9m3ODJHXkuOek8QIikOQSfp5WPRuNt3v3M8hUisw71FktzPdmsk957JoeMBgk0oiSrx3kLSwu5f1gQa+cjVqC/OT2mdKkH7olmjxFYA084lYiIGBaV9pRPFp95e0FjaSaqnmLTSsLfjD0Ufb5UNRIGT9CML+Gc/VCw0JQutwNP3iyUqkvBzLJTMKeDKNs1Oq3OnU4ce4WzA+k5Pdj1vE9cHUWARyswbe0bhwTBmHqk7o4LQWuxG8RXihMSznEB9ZxyzItqpBxUr2mzrtzVQ/cyXiT5+d2Z773oy8WRPzpThLMfOfZdZRYSWKozffdKu
-    ufoLicenseKey: QVRhclowMy8vLy8vQUFBQUtDQjYzektoY2tDcHVhbmVZL1JUanZORXNvZHdsd28zUkxzU0RIa2VaeUo5WmF6d1l3NFZIZTE3UUVWQlFUM3FRRENzdXVGVlNCajRlNVJndzhSSnBCd2NnSzJPdTNpaWt2QWkrSGdBNDlielZMcFY1L2ZtR3J6SExFNUQyOSsycnNCd2FLOFVKYWN3UkcrdmxENXBLTm4yZTltcTBQdG9NWkhnMFNDaHRJYnNOY3gxL2g3dWR6dDZXSFkrbk5NVXUvUFFTQUkvUHNqbWZEQjNkbitPczJHa2xqWHdIN0FmaUZsc3hzVkFTZXVjTnhMeksyTHZSWmxUbXJUSlNaeU5DRTVFbU1PSDFqKzB4ZVZ6aVcrQ2Q1cjJRMk1wZlg5VEpvTnZFeW8yeU91YzYvYUh6dm9zaFBTa1h0S2JPckc3T09TNzdzTkxQSitSVGdrNnlGbkdMUC9rc2F2RWkxL2YrdStKUVpHbld0MzQ=
+    vuforiaLicenseKey: 
+    ufoLicenseKey: QVNTVWRrMy8vLy8vQUFBQUtKbXRXM2gyUzBUTnFuT2pUb2Q4dUV1VHZNL0wwaVpJNk8yK3AyNlFCMmZjTWRiNnU1VVhnTTdGNEVDQWZrZnNqM3NBUlBlbXZCVU81Wmd4QXNzK3VUdmJEbFFvRHo1dnA0NmE5WmhRUUVFOEc1WmVhZVZMWkdXZmZFK1NtVVVOVUdEMERQZXZvWlhMMHRsVVljZXE3MkpDenRZZFFOTHdTSkcxWFFMSlp2SjJ0SUpzS0diclAwU25FdmhXSDgvR3ZRck1WbkRkMU9sU0RSVmE3MVpnY2JTZGIrcFVIYkZpdWQzVlZvRTZ6WDJraU1lMlhRbFhUR1czM3ZaSU1tRW5JUXZPbTdIbGdTUFRZaTExWHQ0OHpyZjZhUVoxUHh6MndRU2tETG9VcC96RTd5RWJhOXI1eXJVZ1NmU3dEeGdEcU1vWklOSmp0SUxTUktseEhkMzhhRCs5Q0Iwc1RLU1BURitsOTBSc0twK3A=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 2
-    maxSimultaneousObjectTargets: 3
+    maxSimultaneousImageTargets: 1
+    maxSimultaneousObjectTargets: 1
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
     mirrorVideoBackground: 0
-    version: 8.0.10
-    eulaAcceptedVersions: '{"Values":["0.0","8.0"]}'
+    version: 1.0.0
+    eulaAcceptedVersions: 
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
@@ -64,7 +64,7 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
   webcam:
-    deviceNameSetInEditor: USB Camera
+    deviceNameSetInEditor: 
     flipHorizontally: 0
     turnOffWebCam: 0
     renderTextureLayer: 30
